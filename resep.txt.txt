@@ -15,3 +15,8 @@ resep masakan
 13. ayam sop
 14. ikan goreng
 15.sop
+16.sayur
+17. ayam penyet 
+18. ayam rebus
+19. ayam sop
+20. ikan goreng
