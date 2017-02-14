@@ -4,3 +4,14 @@ resep masakan
 2. ayamm goreng
 3. ayam bakar
 4. ikan bakar
+5. ayam penyet 
+6. ayam rebus
+7. ayam sop
+8. ikan goreng
+9.sop
+10.sayur
+11. ayam penyet 
+12. ayam rebus
+13. ayam sop
+14. ikan goreng
+15.sop
